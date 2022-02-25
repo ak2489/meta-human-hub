@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('Meta_Hub22')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["meta-human-hub.herokuapp.com", "localhost"]
+ALLOWED_HOSTS = ["meta-human.herokuapp.com", "localhost"]
 
 
 # Application definition
