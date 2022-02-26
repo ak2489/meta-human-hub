@@ -1,1 +1,1 @@
-meta_human.wsgi
+web: gunicorn meta_human.wsgi
